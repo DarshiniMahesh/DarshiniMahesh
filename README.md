@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me at <i>**darshinims00@gmail.com**</i>
 
-- ⚡ Fun fact : <i>I think I'm a bit unpredictable.</i>
+- ⚡ Fun fact : <i>I think I'm bit unpredictable.</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
