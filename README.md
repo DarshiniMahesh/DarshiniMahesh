@@ -3,6 +3,7 @@
 
 <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdrbXh1cGR0cDFzeHg3OXR5bDIwaXF4Nmd4anpzaThhNTk3NHp2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshinimahesh&label=Profile%20views&color=0e75b6&style=flat" alt="darshinimahesh" /> </p>
 
 - 🌱 I’m currently learning <i>**Python for AI and ML.**</i>
