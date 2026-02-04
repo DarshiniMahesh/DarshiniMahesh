@@ -3,18 +3,19 @@
 
 <br>
 
-<img align="right" width="300" height="500"
+<img align="right" width="500" 
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdrbXh1cGR0cDFzeHg3OXR5bDIwaXF4Nmd4anpzaThhNTk3NHp2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
 alt="coding gif">
 
 
 
-- 🌱 I’m currently learning **MLOps**
 - 🔭 I’m currently working on **AIML - based projects**
-- 👯 I’m looking to collaborate on **Web Development, Machine Learning, and AI applications**
-- 📫 Reach out to me at **darshinims00@gmail.com**
-- 👨‍💻 Visit my portfolio : **https://darshinims-portfolio.netlify.app/**
-- ⚡ Fun fact: **I’m a bit unpredictable** 
+
+- 🌱 I’m currently learning **MLOps**
+
+- 👨‍💻 Visit my portfolio **[https://darshinims-portfolio.netlify.app/](https://darshinims-portfolio.netlify.app/)**
+
+- 📫 How to reach me **darshinims00@gmail.com**
 
 
 
@@ -81,3 +82,4 @@ alt="coding gif">
   src="https://github-readme-streak-stats.herokuapp.com/?user=darshinimahesh&theme=tokyonight"
   alt="GitHub Streak" />
 </p>
+
