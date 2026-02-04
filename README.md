@@ -66,8 +66,8 @@ alt="coding gif">
 
 <p>
   <img align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=darshinimahesh&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-  alt="Top Languages" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshinimahesh&layout=compact&theme=tokyonight"
+  alt="Top Languages"
 </p>
 
 <p>
