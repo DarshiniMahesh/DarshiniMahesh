@@ -13,7 +13,7 @@ alt="coding gif">
 - 🔭 I’m currently working on **AIML - based projects**
 - 👯 I’m looking to collaborate on **Web Development, Machine Learning, and AI applications**
 - 📫 Reach out to me at **darshinims00@gmail.com**
-- 👨‍💻 Visit my portfolio : ****
+- 👨‍💻 Visit my portfolio : **https://darshinims-portfolio.netlify.app/**
 - ⚡ Fun fact: **I’m a bit unpredictable** 
 
 
