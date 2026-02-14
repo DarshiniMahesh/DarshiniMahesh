@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshini M S</h1>
-<h3 align="center">An aspiring AI Engineer and Computer Science student from India</h3>
+<h3 align="center">An aspiring AI Full Stack Enthusiast and Computer Science student from India</h3>
 
 <br>
 
