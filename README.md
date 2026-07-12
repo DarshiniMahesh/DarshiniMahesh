@@ -13,42 +13,12 @@ alt="coding gif">
 
 - 🔭 I’m currently working on *AIML - based projects*
 
-- 🌱 I’m currently learning *MLOps*
+- 🌱 I’m currently learning *Azure Cloud Fundamentals*
 
 - 👨‍💻 Visit my portfolio *[https://darshinims-portfolio.netlify.app/](https://darshinims-portfolio.netlify.app/)*
 
 - 📫 How to reach me *darshinims00@gmail.com*
 
-
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/darshini-mahesh" target="_blank">
-    <img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://kaggle.com/darshinimahesh" target="_blank">
-    <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-    alt="Kaggle" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/__darshiniii" target="_blank">
-    <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="Instagram" height="30" width="40" />
-  </a>
-
-  <a href="https://www.leetcode.com/darshinims" target="_blank">
-    <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
 
 <br>
 
